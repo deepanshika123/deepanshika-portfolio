@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/deepanshika_portfolio/static/css/main.a7461685.css",
-    "main.js": "/deepanshika_portfolio/static/js/main.d3f93d7a.js",
-    "static/media/uitwebpage.png": "/deepanshika_portfolio/static/media/uitwebpage.f5305b6d15c78b73d98d.png",
-    "static/media/EventPage.png": "/deepanshika_portfolio/static/media/EventPage.3ee3a241c2798af97ad4.png",
-    "static/media/Schedulink.png": "/deepanshika_portfolio/static/media/Schedulink.037c24f24e25435962ce.png",
-    "static/media/SudokuSolver.png": "/deepanshika_portfolio/static/media/SudokuSolver.5f48c778bf55b0aaae71.png",
-    "static/media/RockPaperScissor.png": "/deepanshika_portfolio/static/media/RockPaperScissor.61b6b3e97405606f7537.png",
-    "static/media/HeroImage.jpg": "/deepanshika_portfolio/static/media/HeroImage.d72de59f4134eb2865d0.jpg",
-    "static/media/typing test.png": "/deepanshika_portfolio/static/media/typing test.6646fed79396cde7c56a.png",
-    "static/media/AISummary.png": "/deepanshika_portfolio/static/media/AISummary.0faf0df41c16c8d7a075.png",
-    "index.html": "/deepanshika_portfolio/index.html",
-    "main.a7461685.css.map": "/deepanshika_portfolio/static/css/main.a7461685.css.map",
-    "main.d3f93d7a.js.map": "/deepanshika_portfolio/static/js/main.d3f93d7a.js.map"
+    "main.css": "/deepanshika-portfolio/static/css/main.a7461685.css",
+    "main.js": "/deepanshika-portfolio/static/js/main.f497e59d.js",
+    "static/media/uitwebpage.png": "/deepanshika-portfolio/static/media/uitwebpage.f5305b6d15c78b73d98d.png",
+    "static/media/EventPage.png": "/deepanshika-portfolio/static/media/EventPage.3ee3a241c2798af97ad4.png",
+    "static/media/Schedulink.png": "/deepanshika-portfolio/static/media/Schedulink.037c24f24e25435962ce.png",
+    "static/media/SudokuSolver.png": "/deepanshika-portfolio/static/media/SudokuSolver.5f48c778bf55b0aaae71.png",
+    "static/media/RockPaperScissor.png": "/deepanshika-portfolio/static/media/RockPaperScissor.61b6b3e97405606f7537.png",
+    "static/media/HeroImage.jpg": "/deepanshika-portfolio/static/media/HeroImage.d72de59f4134eb2865d0.jpg",
+    "static/media/typing test.png": "/deepanshika-portfolio/static/media/typing test.6646fed79396cde7c56a.png",
+    "static/media/AISummary.png": "/deepanshika-portfolio/static/media/AISummary.0faf0df41c16c8d7a075.png",
+    "index.html": "/deepanshika-portfolio/index.html",
+    "main.a7461685.css.map": "/deepanshika-portfolio/static/css/main.a7461685.css.map",
+    "main.f497e59d.js.map": "/deepanshika-portfolio/static/js/main.f497e59d.js.map"
   },
   "entrypoints": [
     "static/css/main.a7461685.css",
-    "static/js/main.d3f93d7a.js"
+    "static/js/main.f497e59d.js"
   ]
 }
