@@ -1,7 +1,7 @@
 {
   "name": "deepanshika-portfolio",
   "version": "0.1.1",
-  "homepage": "",
+  "homepage": "https://deepanshika123.github.io/deepanshika-portfolio",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^4.1.0",
