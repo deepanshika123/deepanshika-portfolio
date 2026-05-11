@@ -5,6 +5,8 @@ import eventpage from "../images/EventPage.png";
 import rockpaperscissor from "../images/RockPaperScissor.png";
 import SudokuSolver from "../images/SudokuSolver.png";
 import typingtest from "../images/typing test.png";
+import Campusconnect from "../images/Campusconnect.png";
+import Hireflow from "../images/HireFlow.png";
 
 export const Bio = {
   name: "Deepanshika Agrahari",
@@ -190,41 +192,42 @@ export const projects = [
     webapp: "",
   },
   {
-    id: 12
+    id: 12,
     title: "Campus Connect",
     date: "jan 2026 - April 2026",
     description:
-            "CampusConnect is a hyperlocal campus networking platform that enables students and alumni to connect through posts, referrals, discussions, and AI-powered assessments.",
-    image: "",
-    tags: ["React Js", "TailwindCSS", "Node Js", "Express Js", "MongoDB", "fastAPI"],
+      "CampusConnect is a hyperlocal campus networking platform that enables students and alumni to connect through posts, referrals, discussions, and AI-powered assessments.",
+    image: Campusconnect,
+    tags: [
+      "React Js",
+      "TailwindCSS",
+      "Node Js",
+      "Express Js",
+      "MongoDB",
+      "fastAPI",
+    ],
     category: "web app",
     github: "https://github.com/deepanshika123/Campus-Connect.git",
     webapp: "https://campusnet.vercel.app/",
   },
-      {
-    id: 13
+  {
+    id: 13,
     title: "HireFlow",
     date: "March 2026 - June 2026",
     description:
-           "HireFlow is an AI-driven recruitment platform that streamlines hiring through resume analysis, ATS scoring, AI assessments, and automated job description generation.",
-    image: "",
-    tags: ["React Js", "TailwindCSS", "Node Js", "Express Js", "MongoDB", "fastAPI"],
+      "HireFlow is an AI-driven recruitment platform that streamlines hiring through resume analysis, ATS scoring, AI assessments, and automated job description generation.",
+    image: Hireflow,
+    tags: [
+      "React Js",
+      "TailwindCSS",
+      "Node Js",
+      "Express Js",
+      "MongoDB",
+      "fastAPI",
+    ],
     category: "web app",
     github: "https://github.com/deepanshika123/Campus-Connect.git",
     webapp: "webhireflow.vercel.app/",
-  },
-  {
-    id: 9,
-    title: "AI-Summary-Generator",
-    date: "Oct 2025- Oct 2025",
-    description:
-      "The AI Summary Generator is a Chrome extension that automatically summarizes long articles and web pages using AI. It helps users quickly grasp key points without reading the entire content, making research and reading more efficient and time-saving.",
-    image: AISummary,
-    tags: ["HTML", "CSS", "JavaScript", "Chrome Extension", "JSON"],
-    category: "web app",
-    github:
-      "https://github.com/deepanshika123/AI-Article-Summariser-chrome-extension",
-    webapp: "",
   },
   {
     id: 0,
@@ -244,6 +247,20 @@ export const projects = [
     category: "web app",
     github: "https://github.com/deepanshika123/schedulink/tree/main",
     webapp: "https://schedulink-sandy.vercel.app/",
+  },
+
+  {
+    id: 9,
+    title: "AI-Summary-Generator",
+    date: "Oct 2025- Oct 2025",
+    description:
+      "The AI Summary Generator is a Chrome extension that automatically summarizes long articles and web pages using AI. It helps users quickly grasp key points without reading the entire content, making research and reading more efficient and time-saving.",
+    image: AISummary,
+    tags: ["HTML", "CSS", "JavaScript", "Chrome Extension", "JSON"],
+    category: "web app",
+    github:
+      "https://github.com/deepanshika123/AI-Article-Summariser-chrome-extension",
+    webapp: "",
   },
 
   {
