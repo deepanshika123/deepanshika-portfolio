@@ -190,6 +190,30 @@ export const projects = [
     webapp: "",
   },
   {
+    id: 12
+    title: "Campus Connect",
+    date: "jan 2026 - April 2026",
+    description:
+            "CampusConnect is a hyperlocal campus networking platform that enables students and alumni to connect through posts, referrals, discussions, and AI-powered assessments.",
+    image: "",
+    tags: ["React Js", "TailwindCSS", "Node Js", "Express Js", "MongoDB", "fastAPI"],
+    category: "web app",
+    github: "https://github.com/deepanshika123/Campus-Connect.git",
+    webapp: "https://campusnet.vercel.app/",
+  },
+      {
+    id: 13
+    title: "HireFlow",
+    date: "March 2026 - June 2026",
+    description:
+           "HireFlow is an AI-driven recruitment platform that streamlines hiring through resume analysis, ATS scoring, AI assessments, and automated job description generation.",
+    image: "",
+    tags: ["React Js", "TailwindCSS", "Node Js", "Express Js", "MongoDB", "fastAPI"],
+    category: "web app",
+    github: "https://github.com/deepanshika123/Campus-Connect.git",
+    webapp: "webhireflow.vercel.app/",
+  },
+  {
     id: 9,
     title: "AI-Summary-Generator",
     date: "Oct 2025- Oct 2025",
