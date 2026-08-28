@@ -7,6 +7,7 @@ import SudokuSolver from "../images/SudokuSolver.png";
 import typingtest from "../images/typing test.png";
 import Campusconnect from "../images/Campusconnect.png";
 import Hireflow from "../images/HireFlow.png";
+import spendsenseAI from "../images/spendsenseAIi.png";
 
 export const Bio = {
   name: "Deepanshika Agrahari",
@@ -180,16 +181,35 @@ export const education = [
 
 export const projects = [
   {
-    id: 11,
-    title: "E-commerce Website",
-    date: "May 2025 - june 2025",
+    id: 13,
+    title: "HireFlow",
+    date: "March 2026 - June 2026",
     description:
-      "Developed a full-stack eCommerce website using the MERN stack featuring secure user authentication, product listings, and efficient cart management. Implemented a responsive UI for a smooth user experience and integrated backend APIs for data handling and order processing.",
-    image: "../images/Ecommerce.png",
+      "HireFlow is an AI-driven recruitment platform that streamlines hiring through resume analysis, ATS scoring, AI assessments, and automated job description generation.",
+    image: Hireflow,
+    tags: [
+      "React Js",
+      "TailwindCSS",
+      "Node Js",
+      "Express Js",
+      "MongoDB",
+      "fastAPI",
+    ],
+    category: "web app",
+    github: "https://github.com/deepanshika123/HireFlow.git",
+    webapp: "https://webhireflow.vercel.app/",
+  },
+  {
+    id: 11,
+    title: "SpendSenseAI",
+    date: "May 2026 - june 2026",
+    description:
+      "Developed a full-stack Expense Tracker website using the MERN stack featuring secure user authentication, real-time expense tracking, and data visualization with charts. Integrated AI-powered insights to provide users with personalized spending recommendations and financial tips.",
+    image: spendsenseAI,
     tags: ["React Js", "TailwindCSS", "Node Js", "Express Js", "MongoDB"],
     category: "web app",
-    github: "https://github.com/deepanshika123/E-commerce-site",
-    webapp: "",
+    github: "https://github.com/deepanshika123/SpendSense-AI.git",
+    webapp: "https://spend-sense-ai-alpha.vercel.app/login",
   },
   {
     id: 12,
@@ -207,27 +227,8 @@ export const projects = [
       "fastAPI",
     ],
     category: "web app",
-    github: "https://github.com/deepanshika123/Campus-Connect.git",
+    github: "https://github.com/deepanshika123/Campus-Connect",
     webapp: "https://campusnet.vercel.app/",
-  },
-  {
-    id: 13,
-    title: "HireFlow",
-    date: "March 2026 - June 2026",
-    description:
-      "HireFlow is an AI-driven recruitment platform that streamlines hiring through resume analysis, ATS scoring, AI assessments, and automated job description generation.",
-    image: Hireflow,
-    tags: [
-      "React Js",
-      "TailwindCSS",
-      "Node Js",
-      "Express Js",
-      "MongoDB",
-      "fastAPI",
-    ],
-    category: "web app",
-    github: "https://github.com/deepanshika123/Campus-Connect.git",
-    webapp: "webhireflow.vercel.app/",
   },
   {
     id: 0,
